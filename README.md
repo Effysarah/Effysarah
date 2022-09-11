@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sarah
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning fullstack web development
+- 👀 I’m interested in Data Analytics
+- 🌱 I completed the Data Analytics certificate with Google
 - 💞️ I’m looking to collaborate on This field
 - 📫 How to reach me effysarah3108@gmail.com
 
