@@ -1,7 +1,7 @@
 - 👋 hi there, Name's Sarah.
-- 👀 I’m interested in Data Science/Machine learning/Data analytics.
-- 🌱 I completed the Data Analytics certificate with Google and Data Sccience and Machine learning course on Udemy.
-- 💞️ I’m looking to collaborate on This field and connect with likeminded people.
+- 👀 I’m interested in Data Science, Artificial Intelligence, Machine learning, Data analytics.
+- 🌱 I have certifications in Prompt Engineering(Working with LLMs) from ZTM, Data Science and Machine Learning from Udemy, AI Agent Fundamentatls from Hugging Face and Google Data Analytics from Coursera.
+- 💞️ I’m looking to collaborate in This field and connect with likeminded people.
 - 📫  effysarah3108@gmail.com
 
 <!---
